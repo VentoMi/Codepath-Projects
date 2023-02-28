@@ -26,7 +26,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/KvBc4wR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Walkthrough link:
+https://imgur.com/a/KvBc4wR
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 LICEcap
